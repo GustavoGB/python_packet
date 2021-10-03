@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dev-aberto-gustavogb
+Version: 0.1.0
+Summary: A example Python package
+Home-page: https://github.com/GustavoGB/python_packet
+Author: Gustavo Gobetti
+Author-email: gustavogb@al.insper.edu.br
+License: MIT LICENSE
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+UNKNOWN
+
