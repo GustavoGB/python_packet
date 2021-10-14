@@ -1,1 +1,1 @@
-from /scripts/hello.py import hello
+from dev_aberto.dev_aberto import hello
